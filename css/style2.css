@@ -1,0 +1,9 @@
+#qus {
+background-color: white;
+width: 500px;
+border-left: 5px solid green;
+border-top-left-radius:  20px;
+border-bottom-left-radius: 20px;
+margin: 50px;
+padding: 20px;
+}
